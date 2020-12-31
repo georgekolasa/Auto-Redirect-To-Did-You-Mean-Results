@@ -1,4 +1,4 @@
-# Auto-Redirect-To-Did-You-Mean-Results
+# Auto Redirect To "Did You Mean" Results
 
 
 Whenever you mispell something on Google, it shows you a "Did you mean?" suggestion. This browser extension automatically redirects to that "Did you mean" link. This is most useful for distraction blockers that rely on on the proper spelling of words in the URL in order to block pages.
