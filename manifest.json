@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Auto-Redirect To \"Did You Mean\" Results",
-    "version": "0.1.12",
+    "version": "0.1.14",
     "description": "Automatically redirects to a search's \"Did you Mean\" results.",
     "icons": { "16": "images/icon16.png",
         "48": "images/icon48.png",
