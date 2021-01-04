@@ -205,8 +205,8 @@
         }
     ],
     "browser_action": {
-        "default_popup": "popup.html",
-        "default_title": "Popup"
+        "default_popup": "src/popup.html",
+        "default_title": "Auto-Redirect To \"Did You Mean\" Results"
     }
 }
 
