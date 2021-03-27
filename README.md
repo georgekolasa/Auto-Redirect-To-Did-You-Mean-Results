@@ -1,10 +1,9 @@
 # Auto Redirect To "Did You Mean" Results
-
+## This extension is most useful for distraction blockers that rely on on the proper spelling of words in the URL in order to block pages.
 <p align="center">
   <img src="https://github.com/georgekolasa/Auto-Redirect-To-Did-You-Mean-Results/blob/main/images/Slide1.png?raw=true" width="750">
 </p>
 
-## This is most useful for distraction blockers that rely on on the proper spelling of words in the URL in order to block pages.
 
 Whenever you misspell something on Google, it shows you a "Did you mean?" suggestion. This browser extension automatically redirects to that "Did you mean" link. This is most useful for distraction blockers that rely on on the proper spelling of words in the URL in order to block pages. **If you're not using a distraction blocker that relies on the spelling in URLs to block, you don't need this.**
 
